@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "FlameFront-end",
   "private": false,
+  "homepage": "https://flamefront-end.github.io/JobFinder",
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^17.0.2",
