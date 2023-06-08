@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a2344d6.css",
-    "main.js": "/static/js/main.b1048127.js",
-    "static/media/bg-header-desktop.svg": "/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
-    "index.html": "/index.html",
-    "static/media/bg-header-mobile.svg": "/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
-    "static/media/icon-remove.svg": "/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
-    "main.3a2344d6.css.map": "/static/css/main.3a2344d6.css.map",
-    "main.b1048127.js.map": "/static/js/main.b1048127.js.map"
+    "main.css": "/JobFinder/static/css/main.3727b985.css",
+    "main.js": "/JobFinder/static/js/main.231e46cf.js",
+    "static/media/bg-header-desktop.svg": "/JobFinder/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/JobFinder/index.html",
+    "static/media/bg-header-mobile.svg": "/JobFinder/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/JobFinder/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.3727b985.css.map": "/JobFinder/static/css/main.3727b985.css.map",
+    "main.231e46cf.js.map": "/JobFinder/static/js/main.231e46cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a2344d6.css",
-    "static/js/main.b1048127.js"
+    "static/css/main.3727b985.css",
+    "static/js/main.231e46cf.js"
   ]
 }
